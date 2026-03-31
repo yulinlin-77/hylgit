@@ -1,3 +1,3 @@
-Hello Git - feature1
+Hello Git - feature2
 Add content in feature-homepage branch
 Test git diff command
